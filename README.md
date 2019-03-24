@@ -5,4 +5,4 @@ The accuracy for Random Forest is : 85.24%
 </br>
 The accuracy for Deep Neural Network is 88.52%
 
-![Screenshot](Screenshot.png)
+![alt text](Screenshot.png)
